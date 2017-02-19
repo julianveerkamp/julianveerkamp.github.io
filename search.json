@@ -1,0 +1,49 @@
+[
+
+  
+    {
+      "title"			: "First Post",
+      "link"			: "http://veerkamp.me/blog/first-post/",
+      "excerpt"		: "This is just a useless post to test Octopress, Jekyll and everything.Maybe this’ll turn into something informative. Not sure if I even want to blog."
+    }
+  
+
+
+
+  
+
+  
+    ,{
+      "title"			: "About Me",
+      "link"			: "http://veerkamp.me/about/",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About",
+      "link"			: "http://veerkamp.me/about/",
+      "excerpt"		: "About me Page"
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+]
