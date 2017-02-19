@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: Julian Veerkamp | Blog
 locale: en_US
-description: Describe your website here.
+description: A simple Blog where I write about stuff. Nothing to see here.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+#url: http://veerkamp.me
+url: http://127.0.0.1:4000
 
 # Jekyll configuration
 
@@ -36,13 +37,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Julian Veerkamp
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: julian@veerkamp.me
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: taikikurosawa
+  facebook: julian.veerkamp
+  github: julianveerkamp
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
