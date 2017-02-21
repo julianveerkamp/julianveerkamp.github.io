@@ -1,0 +1,24 @@
+<package>
+	<id>me.veerkamp.jv-glyph</id>
+	<name>Full Package</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+            <maxiOS>10.2</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobile.substrate</package>
+        <package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Private Theme</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
