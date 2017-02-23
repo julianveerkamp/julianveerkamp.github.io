@@ -1,6 +1,10 @@
 <changelog>
-	<changes>
-		<version>0.1.0</version>
-		<change>Initial release</change>
-	</changes>
+    <changes>
+        <version>0.2.0</version>
+        <change>Added 22 new Icons</change>
+    </changes>
+    <changes>
+        <version>0.1.0</version>
+        <change>Initial release</change>
+    </changes>
 </changelog>

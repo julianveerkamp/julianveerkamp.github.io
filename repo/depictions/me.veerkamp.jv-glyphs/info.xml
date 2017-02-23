@@ -1,23 +1,23 @@
 <package>
-	<id>me.veerkamp.jv-glyph</id>
-	<name>jv_Glyphs</name>
-	<version>0.1.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>10.0</miniOS>
+    <id>me.veerkamp.jv-glyph</id>
+    <name>jv_Glyphs</name>
+    <version>0.1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>10.0</miniOS>
             <maxiOS>10.2</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies>
+        </firmware>
+    </compatibility>
+    <dependencies>
         <package>com.anemonetheming.anemone</package>
-	</dependencies>
-	<descriptionlist>
-		<description>Private Theme</description>
-	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
-	<links></links>
+    </dependencies>
+    <descriptionlist>
+        <description>Private Theme</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Added 22 new Icons</change>
+    </changelog>
+    <links></links>
 </package>
