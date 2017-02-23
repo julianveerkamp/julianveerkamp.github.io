@@ -1,7 +1,7 @@
 <package>
     <id>me.veerkamp.jv-glyph</id>
     <name>jv_Glyphs</name>
-    <version>0.3.1</version>
+    <version>0.4.0</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
@@ -17,8 +17,9 @@
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
-        <change>Added 16 new Icons</change>
-        <change>Updated 2 Icons</change>
+        <change>Added 6 new Icons</change>
+        <change>Updated 7 Icons</change>
+        <change>Includes 69 Icons now</change>
     </changelog>
     <links></links>
 </package>
