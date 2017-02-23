@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.3.1</version>
+        <change>Forgot to export 2 new Icons...</change>
+    </changes>
+    <changes>
         <version>0.3.0</version>
         <change>Added 14 new Icons</change>
         <change>Updated 2 Icons</change>
