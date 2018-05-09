@@ -1,17 +1,26 @@
 # general configuration
-title:
-description:
-url: http://excentris.net
+title: Julian Veerkamp
+description: Siple Blog about stuff I do
+url: http://veerkamp.me
 baseurl: ''
+blogurl: '/blog'
+
+author:
+  fullname: Julian Veerkamp
+  googleplus:
+  github: julianveerkamp
+  twitter: taikikurosawa
+  linkedin: julianveerkamp
+  # disqus: your_disqus_forum_shortname
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/bio-photo.jpg"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Julian Veerkamp"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Tagline"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -20,7 +29,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "compass"
+  twitter: "taikikurosawa"
 
 highlightstyle: ''
 styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, v, xcode, zenburn]
