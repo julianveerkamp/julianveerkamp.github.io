@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'octopress', '~> 3.0'
+gem 'github-pages'
+gem 'jekyll-seo-tag'
+gem 'jekyll-paginate'
