@@ -4,5 +4,8 @@
 - slug: tools
   name: Tools
 
-- slug: productivity
-  name: Productivity
+- slug: code
+  name: Code
+
+- slug: swift
+  name: Swift
